@@ -1,0 +1,6 @@
+framework module Pods_Classified {
+  umbrella header "Pods-Classified-umbrella.h"
+
+  export *
+  module * { export * }
+}
